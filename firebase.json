@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist",
+    "public": "dist/mng-project/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
